@@ -3,4 +3,50 @@ title: testtest
 date: 2021-11-20 14:18:06
 tags: ubuntu
 ---
-# 我在服务器上所做的
+# 我所做的
+
+# Ubuntu 20.04
+
+## 设置我的世界服务器
+
+minec.service
+
+cdrun.sh
+
+## 设置mirai
+
+mcl.service
+
+mcl.sh
+
+## 设置tomcat
+
+略
+
+## 设置nginx
+
+/var/www/html
+
+/etc/nginx
+
+## 设置从gitee同步黑曜石，并自动发布
+
+ crontab -e
+
+sync2gitee
+
+## openjdk-17-jdk
+
+略，我的世界使用其
+
+## nvm 
+
+用来选择nodejs版本
+
+## nodejs
+
+略
+
+## yarn
+
+略
