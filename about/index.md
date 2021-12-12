@@ -2,7 +2,7 @@
 title: 关于我
 date: 2021-10-30 12:59:30
 ---
-> 如果你吃到一个鸡蛋，觉得好吃，你又何必去认识下蛋的母鸡呢？
+    如果你吃到一个鸡蛋，觉得好吃，你又何必去认识下蛋的母鸡呢？
  
 [话虽然这么说，你当然可以来看看鸡蛋](https://github.com/starNGC2237)
 ## 日志
@@ -23,7 +23,7 @@ date: 2021-10-30 12:59:30
 
 [tostar.site](https://tostar.site)
 
-[starlibrary.online](https://starlibrary.online)
+[starlibrary.online (即将废弃)](https://starlibrary.online)
 
 [starlib.site (未启用)](https://starlib.site)
 
