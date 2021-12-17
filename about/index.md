@@ -45,7 +45,7 @@ date: 2021-10-30 12:59:30
 
 [todo的官网及文档](https://todos.starlibrary.online/)
 
-## 我的cdn（其实是没搞完的镜像站（混淆概念.jpg
+## 我的文件站（其实是没搞完的镜像站（混淆概念.jpg
 
 [cdn.starlibrary.online](https://cdn.starlibrary.online)
 
