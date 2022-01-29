@@ -41,7 +41,7 @@ date: 2021-10-30 12:59:30
 
 ## 一个todo软件，目标是全平台（
 
-[todo的网页端](https://todo.tostar.site)
+[todo的网页端](https://todos.tostar.site)
 
 [todo的官网及文档](https://todos.starlibrary.online/)
 
