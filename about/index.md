@@ -1,10 +1,13 @@
 ---
 title: 关于我
 date: 2021-10-30 12:59:30
+
 ---
+
     如果你吃到一个鸡蛋，觉得好吃，你又何必去认识下蛋的母鸡呢？
- 
+
 [话虽然这么说，你当然可以来看看鸡蛋](https://github.com/starNGC2237)
+
 ## 日志
 
 2021年12月使用了keep主题（我变心真快
@@ -54,7 +57,6 @@ date: 2021-10-30 12:59:30
 [lib.starlibrary.online](https://lib.starlibrary.online)
 
 ## 星穹（星穹是一款使用vue.js构建的网站，使用亚文化标签来寻找并交换歌曲
-
 
 [还在咕.jpg](https://xq.tostar.site)
 
