@@ -4,10 +4,6 @@ title: git操作
 date: 2021-06-24 21:59:37
 tags: git
 categories: 
-
-- git
-  feature: true
-
 ---
 
 ## 先初始
